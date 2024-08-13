@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "displayName": "Tweening",
   "description": "The Tweening package provides a system for tweening object properties in Unity. A tween is an animation of a value from a start position to an end position using an easing function, providing a natural sense of motion.\n\nThe system is lightweight, optimized, type-safe, and memory efficient. Hundreds of predefined tweening functions can be called on many common Unity classes, or you can animate anything using generic tweening functions. Tweens can be controlled with many different control methods and various callback functions.",
-  "unity": "2019.4",
+  "unity": "2022.3",
   "repository": "https://github.com/zigurous/unity-tweening-system",
   "documentationUrl": "https://docs.zigurous.com/com.zigurous.tweening",
   "changelogUrl": "https://docs.zigurous.com/com.zigurous.tweening/changelog",
